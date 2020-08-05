@@ -112,7 +112,7 @@ const printQuote = () => {
 }
 
 // Calls the printQuote function every 8 seconds
-setInterval(printQuote, 8000);
+setInterval(printQuote, 10000);
 
 
 /***
